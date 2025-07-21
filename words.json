@@ -1,0 +1,102 @@
+{
+  "1": {
+    "word": "panda",
+    "chinese": "熊貓",
+    "image": "images/panda.png"
+  },
+  "2": {
+    "word": "boar",
+    "chinese": "山豬",
+    "image": "images/boar.png"
+  },
+  "3": {
+    "word": "penguin",
+    "chinese": "企鵝",
+    "image": "images/penguin.png"
+  },
+  "4": {
+    "word": "hedgehog",
+    "chinese": "刺蝟",
+    "image": "images/hedgehog.png"
+  },
+  "5": {
+    "word": "sloth",
+    "chinese": "樹懶",
+    "image": "images/sloth.png"
+  },
+  "6": {
+    "word": "treefrog",
+    "chinese": "樹蛙",
+    "image": "images/treefrog.png"
+  },
+  "7": {
+    "word": "civet",
+    "chinese": "果子狸",
+    "image": "images/civet.png"
+  },
+  "8": {
+    "word": "tapir",
+    "chinese": "貘",
+    "image": "images/tapir.png"
+  },
+  "9": {
+    "word": "ibex",
+    "chinese": "羱羊",
+    "image": "images/ibex.png"
+  },
+  "10": {
+    "word": "quokka",
+    "chinese": "短尾袋鼠",
+    "image": "images/quokka.png"
+  },
+  "11": {
+    "word": "kinkajou",
+    "chinese": "蜜熊",
+    "image": "images/kinkajou.png"
+  },
+  "12": {
+    "word": "tarsier",
+    "chinese": "眼鏡猴",
+    "image": "images/tarsier.png"
+  },
+  "13": {
+    "word": "fox",
+    "chinese": "狐狸",
+    "image": "images/fox.png"
+  },
+  "14": {
+    "word": "deer",
+    "chinese": "鹿",
+    "image": "images/deer.png"
+  },
+  "15": {
+    "word": "tiger",
+    "chinese": "老虎",
+    "image": "images/tiger.png"
+  },
+  "16": {
+    "word": "lion",
+    "chinese": "獅子",
+    "image": "images/lion.png"
+  },
+  "17": {
+    "word": "bear",
+    "chinese": "熊",
+    "image": "images/bear.png"
+  },
+  "18": {
+    "word": "rabbit",
+    "chinese": "兔子",
+    "image": "images/rabbit.png"
+  },
+  "19": {
+    "word": "otter",
+    "chinese": "水獺",
+    "image": "images/otter.png"
+  },
+  "20": {
+    "word": "squirrel",
+    "chinese": "松鼠",
+    "image": "images/squirrel.png"
+  }
+}
