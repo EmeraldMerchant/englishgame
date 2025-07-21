@@ -30,73 +30,73 @@
     "image": "images/treefrog.png"
   },
   "7": {
-    "word": "civet",
-    "chinese": "果子狸",
-    "image": "images/civet.png"
+    "word": "leopard",
+    "chinese": "獵豹",
+    "image": "images/leopard.png"
   },
   "8": {
-    "word": "tapir",
-    "chinese": "貘",
-    "image": "images/tapir.png"
+    "word": "capybara",
+    "chinese": "水豚",
+    "image": "images/capybara.png"
   },
   "9": {
-    "word": "ibex",
-    "chinese": "羱羊",
-    "image": "images/ibex.png"
+    "word": "goat",
+    "chinese": "山羊",
+    "image": "images/goat.png"
   },
   "10": {
-    "word": "quokka",
-    "chinese": "短尾袋鼠",
-    "image": "images/quokka.png"
+    "word": "kangaroo",
+    "chinese": "袋鼠",
+    "image": "images/kangaroo.png"
   },
   "11": {
-    "word": "kinkajou",
-    "chinese": "蜜熊",
-    "image": "images/kinkajou.png"
+    "word": "tortoise",
+    "chinese": "陸龜",
+    "image": "images/tortoise.png"
   },
   "12": {
-    "word": "tarsier",
-    "chinese": "眼鏡猴",
-    "image": "images/tarsier.png"
+    "word": "jellyfish",
+    "chinese": "水母",
+    "image": "images/jellyfish.png"
   },
   "13": {
-    "word": "fox",
-    "chinese": "狐狸",
-    "image": "images/fox.png"
-  },
-  "14": {
-    "word": "deer",
-    "chinese": "鹿",
-    "image": "images/deer.png"
-  },
-  "15": {
-    "word": "tiger",
-    "chinese": "老虎",
-    "image": "images/tiger.png"
-  },
-  "16": {
-    "word": "lion",
-    "chinese": "獅子",
-    "image": "images/lion.png"
-  },
-  "17": {
-    "word": "bear",
-    "chinese": "熊",
-    "image": "images/bear.png"
-  },
-  "18": {
-    "word": "rabbit",
-    "chinese": "兔子",
-    "image": "images/rabbit.png"
-  },
-  "19": {
     "word": "otter",
     "chinese": "水獺",
     "image": "images/otter.png"
   },
-  "20": {
+  "14": {
     "word": "squirrel",
     "chinese": "松鼠",
     "image": "images/squirrel.png"
+  },
+  "15": {
+    "word": "raccoon",
+    "chinese": "浣熊",
+    "image": "images/raccoon.png"
+  },
+  "16": {
+    "word": "koala",
+    "chinese": "無尾熊",
+    "image": "images/koala.png"
+  },
+  "17": {
+    "word": "eagle",
+    "chinese": "老鷹",
+    "image": "images/eagle.png"
+  },
+  "18": {
+    "word": "owl",
+    "chinese": "貓頭鷹",
+    "image": "images/owl.png"
+  },
+  "19": {
+    "word": "dolphin",
+    "chinese": "海豚",
+    "image": "images/dolphin.png"
+  },
+  "20": {
+    "word": "camel",
+    "chinese": "駱駝",
+    "image": "images/camel.png"
   }
 }
