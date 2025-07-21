@@ -7,7 +7,7 @@ body {
 .background-blur {
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: url('images/bg.png') center center / cover no-repeat;
+  background: url('bg.png') center center / cover no-repeat;
   filter: blur(8px) brightness(0.6);
   z-index: -1;
 }
